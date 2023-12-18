@@ -1,0 +1,35 @@
+
+body{
+    background-color: powderblue;
+}
+
+h1{
+    font-family:Better Together Script;
+    font-weight: bolder;
+    font-size: 90px;
+    text-align:center;
+}
+h2{
+    color: coral;
+    font-family:Freestyle Script;
+    font-size: 40px;
+}
+p{
+    color: coral;
+    font-family: Freestyle Script;
+    font-size: 40px;
+    
+}
+img{
+    
+ width: 100px;
+ height: 80px;
+ box-shadow: 10px 5px;
+ transition: width 1s, height 1s ;
+ 
+  
+}
+img:hover{
+    width: 400px;
+    height:320px
+}
